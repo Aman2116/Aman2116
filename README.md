@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman2116
-- 👀 I’m interested in data acience
-- 🌱 I’m currently learning machine learning and data science
+- 👀 I’m interested in front end engineering.
+- 🌱 I’m a web developer.
 - 💞️ I’m looking to collaborate on projects
 - 📫 If you want to reach me, try my email id:aman.aggarwal.2116@gmail.com 
 
